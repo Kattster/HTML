@@ -129,3 +129,10 @@ Defines teletype text
 <var>	Defines a variable
 <video>	Defines embedded video content
 <wbr>	Defines a possible line-break
+
+Lists....
+ul style types   <ul style="list-style-type: square;">  
+Type "disc"	This is the default style. In this style, the list items are marked with bullets.
+Type "circle"	In this style, the list items are marked with circles.
+Type "square"	In this style, the list items are marked with squares.
+Type "none"	In this style, the list items are not marked .
